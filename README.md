@@ -9,3 +9,4 @@ Plagiarsim checker using cosine algorithm
 - Run server `python manage.py runserver`
 
 "# PlagarismChecker2" 
+"# PlagarismChecker2" 
