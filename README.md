@@ -8,3 +8,4 @@ Plagiarsim checker using cosine algorithm
 - Install the requirements using `pip install -r requirements.txt`
 - Run server `python manage.py runserver`
 
+"# PlagarismChecker2" 
